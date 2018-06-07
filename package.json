@@ -1,0 +1,18 @@
+{
+  "name": "bubblesort",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/app.js",
+  "private": true,
+  "scripts": {
+    "test": "node bin/run-tests.js",
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "jasmine-terminal-reporter": "^1.0.3",
+    "yargs": "^11.0.0"
+  }
+}
